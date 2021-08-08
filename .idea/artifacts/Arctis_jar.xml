@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Arctis:jar">
+    <output-path>$PROJECT_DIR$/../../Test Server/plugins</output-path>
+    <root id="archive" name="Arctis.jar">
+      <element id="module-output" name="Arctis" />
+    </root>
+  </artifact>
+</component>
